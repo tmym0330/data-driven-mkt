@@ -1,0 +1,21 @@
+1. Conversion rate: (số lượt truy cập thực hiện min 1 transaction)/ (số lượt truy cập bounce != 1)
+2. Consideration based on: Bounce, page views, time on sites
+3. Bounce rate = bounce.sum()/len(bounce)
+4. Bounce by source -> source nào chịu trách nhiệm nhiều nhất (visualize)
+5. Average thời gian visit/ khách
+6. Average thời gian/ session: timeOnSite.mean()
+7. Active website: số lượng khách hàng mới, page views
+8. Giờ vàng: giờ nào khách hàng mua nhiều nhất (vẽ biểu đồ)/ truy cập nhiều nhất
+9. Top 5 sources khách mua nhiều/ truy cập nhiều
+10. By Sources: so sánh tỉ lệ truy cập nhiều và bounce
+11. Source nào cost ít: (Nguồn: organic hay quảng cáo) (chưa đủ data)
+
+# Tính các metrics vừa rồi
+# Xây dựng dashboard: 3 phần: 
+ -1 gồm các metrics chính
+ -2 gồm các metrics biến động theo tgian
+ -3 gồm các metrics theo source
+ -> Nhìn vào biết có các quyết định gì
+ 
+
+Ra Tết dương? 
