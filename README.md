@@ -2,7 +2,7 @@
 
 This repo for subject: Data driven Marketing. 
 
-Class: DSEB k62 NEU
+Class: DSEB 62 NEU
 
 ## author
 
